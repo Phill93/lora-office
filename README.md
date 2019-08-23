@@ -9,3 +9,24 @@ This is a LoRaWAN enabled project. Its purpose is to monitor the air and the thr
 
 ## Wiring
 ![wiring.png](wiring.png)
+
+### Pinout ePaper
+| Wiring Pin | Board |
+|----|----|
+| 1 | BUSY |
+| 2 | RST  |
+| 3 | DC   |
+| 4 | CS   |
+| 5 | CLK  |
+| 6 | DIN  |
+| 7 | GND  |
+| 8 | 3.3V |
+
+### Pinout BME680 
+
+| Wiring Pin | Board |
+|----|----|
+| 1 | GND |
+| 2 | SCL |
+| 3 | SDA |
+| 4 | 2-6V |
